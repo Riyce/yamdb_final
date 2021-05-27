@@ -1,4 +1,4 @@
-![yamdb%20workflow](https://github.com/Riyce/yamdb_final/workflows/yamdb%20workflow/badge.svg)
+![yamdb_final](https://github.com/Riyce/yamdb_final/actions/workflows/yamdb_workflow.yaml/badge.svg)
 <h1> YamDB </h1>
 YamDB - проект предназанченный для размещения отзывов на фильмы, музыкальные произведения и книги. <br>У авторизованных пользователей есть возможность оставлять собстенные отзывы к произведениям и комментировать уже существующие.
 <hr>
