@@ -39,3 +39,5 @@ YamDB - проект предназанченный для размещения 
 <li> docker-compose stop
 <br> Для удаления контейнеров выполните команду:
 <li> docker-compose down
+
+Развернутый проект доступен по ссылке: http://selkieproject.tk/admin/
