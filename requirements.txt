@@ -1,5 +1,5 @@
 
-attrs==19.3.0             # via pytest
+attrs                     # via pytest
 certifi==2020.4.5.1       # via requests
 chardet==3.0.4            # via requests
 idna==2.9                 # via requests
@@ -27,5 +27,6 @@ psycopg2-binary
 PyJWT==1.7.1
 pytz==2020.1
 sqlparse==0.3.1
-flake8==3.9.2
+flake8
 python-dotenv
+
